@@ -1,4 +1,4 @@
-# State Estimation
+# AUV / ASV State Estimation
 
 State estimation code used on our surface and underwater robots. Code runs on a Raspberry Pi zero companion computer.
 
